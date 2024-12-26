@@ -1,0 +1,6 @@
+Queue :10->20->30->NULL
+After dequeue the new Queue :20->30->NULL
+After dequeue the new Queue :30->NULL
+
+Process returned 0 (0x0)   execution time : 0.973 s
+Press any key to continue.
