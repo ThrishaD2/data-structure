@@ -1,0 +1,51 @@
+
+1. INSERT AN ELEMENT 2. DELETE AN ELEMENT 3. PEEK 4. DISPLAY 5. EXIT
+
+Enter your option: 1
+
+Enter an element to insert: 22
+
+Element 22 inserted.
+
+1. INSERT AN ELEMENT 2. DELETE AN ELEMENT 3. PEEK 4. DISPLAY 5. EXIT
+
+Enter your option: 1
+
+Enter an element to insert: 33
+
+Element 33 inserted.
+
+1. INSERT AN ELEMENT 2. DELETE AN ELEMENT 3. PEEK 4. DISPLAY 5. EXIT
+
+Enter your option: 1
+
+Enter an element to insert: 44
+
+Element 44 inserted.
+
+1. INSERT AN ELEMENT 2. DELETE AN ELEMENT 3. PEEK 4. DISPLAY 5. EXIT
+
+Enter your option: 2
+
+Deleted element is 22
+
+1. INSERT AN ELEMENT 2. DELETE AN ELEMENT 3. PEEK 4. DISPLAY 5. EXIT
+
+Enter your option: 3
+
+The first value in the queue is 33
+
+1. INSERT AN ELEMENT 2. DELETE AN ELEMENT 3. PEEK 4. DISPLAY 5. EXIT
+
+Enter your option: 4
+
+Queue elements: 33 44
+
+1. INSERT AN ELEMENT 2. DELETE AN ELEMENT 3. PEEK 4. DISPLAY 5. EXIT
+
+Enter your option: 5
+
+Exiting...
+
+Process returned 0 (0x0)   execution time : 20.763 s
+Press any key to continue.
