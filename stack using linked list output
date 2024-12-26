@@ -1,0 +1,12 @@
+Linked List
+30->20->10->NULL
+Popped element = 30
+After the pop, the new linked list
+20->10->NULL
+Popped element = 20
+After the pop, the new linked list
+10->NULL
+
+Process returned 0 (0x0)   execution time : 0.922 s
+Press any key to continue.
+
