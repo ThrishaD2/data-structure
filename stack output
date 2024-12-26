@@ -1,0 +1,55 @@
+***** MENU *****
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the value to be inserted: 22
+
+Insertion successful!
+
+
+***** MENU *****
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the value to be inserted: 33
+
+Insertion successful!
+
+
+***** MENU *****
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+
+Deleted: 33
+
+
+***** MENU *****
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+
+Stack elements are:
+22
+
+
+***** MENU *****
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 4
+
+Process returned 0 (0x0)   execution time : 16.621 s
+Press any key to continue.
+
+
+
