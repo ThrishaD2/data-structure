@@ -1,0 +1,87 @@
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 1
+Enter the value to be inserted: 22
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 1
+Enter the value to be inserted: 33
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 1
+Enter the value to be inserted: 44
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 2
+The element deleted from the list: 44
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 5
+Elements are ............
+33
+22
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 3
+The element deleted: 22
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 4
+Enter the position to be deleted: 1
+
+Position not found
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 5
+Elements are ............
+33
+
+1. Insert at the beginning
+2. Delete at the beginning
+3. Delete at the end
+4. Delete at any position
+5. Display
+6. Exit
+Enter your choice: 6
+
+Process returned 0 (0x0)   execution time : 32.467 s
+Press any key to continue.
