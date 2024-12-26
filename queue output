@@ -1,0 +1,19 @@
+Inserted 10
+Inserted 20
+Inserted 30
+Inserted 40
+Inserted 50
+Queue is full
+Queue elements are:
+10 20 30 40 50
+Removed 10
+Removed 20
+Queue elements are:
+30 40 50
+Removed 30
+Removed 40
+Removed 50
+Queue is empty
+
+Process returned 0 (0x0)   execution time : 0.719 s
+Press any key to continue.
