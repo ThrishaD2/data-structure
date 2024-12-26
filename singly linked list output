@@ -1,0 +1,66 @@
+
+1. INSERT AT BEGINNING
+2. INSERT AT END
+3. INSERT AT ANY POSITION
+4. DISPLAY
+5. EXIT
+Enter your choice: 1
+Enter a value to be inserted: 22
+
+1. INSERT AT BEGINNING
+2. INSERT AT END
+3. INSERT AT ANY POSITION
+4. DISPLAY
+5. EXIT
+Enter your choice: 1
+Enter a value to be inserted: 33
+
+1. INSERT AT BEGINNING
+2. INSERT AT END
+3. INSERT AT ANY POSITION
+4. DISPLAY
+5. EXIT
+Enter your choice: 1
+Enter a value to be inserted: 44
+
+1. INSERT AT BEGINNING
+2. INSERT AT END
+3. INSERT AT ANY POSITION
+4. DISPLAY
+5. EXIT
+Enter your choice: 2
+Enter a value to be inserted: 55
+
+1. INSERT AT BEGINNING
+2. INSERT AT END
+3. INSERT AT ANY POSITION
+4. DISPLAY
+5. EXIT
+Enter your choice: 3
+enter the position:
+2
+Enter a value to be inserted
+ 66
+
+1. INSERT AT BEGINNING
+2. INSERT AT END
+3. INSERT AT ANY POSITION
+4. DISPLAY
+5. EXIT
+Enter your choice: 4
+Elements are...
+44
+33
+66
+22
+55
+
+1. INSERT AT BEGINNING
+2. INSERT AT END
+3. INSERT AT ANY POSITION
+4. DISPLAY
+5. EXIT
+Enter your choice: 5
+
+Process returned 0 (0x0)   execution time : 21.803 s
+Press any key to continue.
